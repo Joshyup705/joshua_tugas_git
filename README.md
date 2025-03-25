@@ -1,2 +1,2 @@
 # joshua_tugas_git
-hello my name is joshua
+Hello my name is joshua, i am a programmer
