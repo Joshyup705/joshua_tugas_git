@@ -1,2 +1,3 @@
 # joshua_tugas_git
-Hello my name is joshua, i am a programmer
+Hello Hello my name is joshua, i am a programmer.
+I am learning at timedoors.
